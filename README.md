@@ -1,2 +1,2 @@
 # webrtc-signal-server
-- for WebRTC signal
+- WebRTC signal
